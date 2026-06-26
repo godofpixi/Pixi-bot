@@ -1,0 +1,9 @@
+index.js
+package.json
+commands/ (folder)
+    ├── help.js
+    ├── moderation.js
+    ├── giveaway.js
+    ├── poll.js
+    ├── xp.js
+    └── helper.js
